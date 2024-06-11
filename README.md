@@ -38,19 +38,20 @@ def conectar_bd():
 ## Estrutura do Repositório
 ```
 SQL-Pandas-InterviewQuestions/
-├── data/
-│   ├── PraticasBD.bak               # Backup do banco usado nos desafios
-│   ├── PraticasBD_esquemas.sql      # Esquemas do banco de dados
-│   └── .csvs/                       # Contém todas as tabelas do banco no formato .csv
-├── notebooks/
-│   ├── 01_facil/                    # Resolução dos desafios de nível fácil em Python
-│   ├── 02_medio/                    # Resolução dos desafios de nível médio em Python
-│   └── 03_dificil/                  # Resolução dos desafios de nível difícil em Python
-├── scripts/
-│   ├── 01_facil/                    # Resolução dos desafios de nível fácil em SQL
-│   ├── 02_medio/                    # Resolução dos desafios de nível médio em SQL
-│   └── 03_dificil/                  # Resolução dos desafios de nível difícil em SQL
-└── descricoes/                      # Descrições detalhadas dos desafios + 10 Perguntas de Entrevista
+├── desafios/
+│   ├── data/
+│   │   ├── PraticasBD.bak               # Backup do banco usado nos desafios
+│   │   ├── PraticasBD_esquemas.sql      # Esquemas do banco de dados
+│   │   └── .csvs/                       # Contém todas as tabelas do banco no formato .csv
+│   ├── notebooks/
+│   │   ├── 01_facil/                    # Resolução dos desafios de nível fácil em Python
+│   │   ├── 02_medio/                    # Resolução dos desafios de nível médio em Python
+│   │   └── 03_dificil/                  # Resolução dos desafios de nível difícil em Python
+│   └── scripts/
+│       ├── 01_facil/                    # Resolução dos desafios de nível fácil em SQL
+│       ├── 02_medio/                    # Resolução dos desafios de nível médio em SQL
+│       └── 03_dificil/                  # Resolução dos desafios de nível difícil em SQL
+└── descricoes/                          # Descrições detalhadas dos desafios + 10 Perguntas de Entrevista
 ```
 
 ## Contribuições

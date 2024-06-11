@@ -22,10 +22,22 @@ O repositório também contém um arquivo com as **10 Perguntas de Entrevista ma
 - O backup do banco de dados usado nos desafios está disponível no diretório `data`, com o nome **`PraticasBD.bak`**. Para restaurá-lo no SQL Server, siga o passo a passo [neste link](https://learn.microsoft.com/pt-br/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16&tabs=ssms).
 - Se encontrar dificuldades para restaurar o backup, o diretório também contém o arquivo **`PraticasBD_esquemas.sql`** com o esquema completo de criação do banco de dados.
 - Além disso, os dados de todas as tabelas estão disponíveis em formato `.csv` no diretório `data/csvs` para quem desejar praticar apenas os desafios em Python.
+- Existe um módulo chamado `funcoesconexao` responsável pela conexão e rotinas de interação com o banco. Este módulo é utilizado nos notebooks para facilitar o acesso aos dados. Caso opte por importar os dados diretamente dos arquivos `.csv`, você pode ignorar ou remover as células relacionadas a este módulo. No entanto, se preferir extrair os dados do banco, será necessário modificar o código no arquivo `funcoesconexao.py` conforme indicado abaixo:
+```python
+def conectar_bd():
+    # Substitua 'server', 'username' e 'password' pelas suas credenciais
+    dados_conexao = (
+        "Driver={SQL Server};"
+        "Server=server;"
+        "Database=PraticasBD;"
+        "UID=username;"
+        "PWD=password"
+    )
+```
 
 ## Estrutura do Repositório
 ```
-Desafios-SQL-Pandas/
+SQL-Pandas-InterviewQuestions/
 ├── data/
 │   ├── PraticasBD.bak               # Backup do banco usado nos desafios
 │   ├── PraticasBD_esquemas.sql      # Esquemas do banco de dados

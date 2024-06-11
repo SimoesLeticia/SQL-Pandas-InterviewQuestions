@@ -50,14 +50,16 @@
 >- `DENSE_RANK()` retornará `{1, 1, 2, 3, 3, 4}` (as classificações são consecutivas, sem lacunas).
 
 **9. O que é um plano de execução? Quando e como usá-lo?**
->Um plano de execução é uma maneira simples do `Query Optimizer` calcular o caminho mais eficiente para implementar uma requisição. Um roteiro gráfico ou textual que mostra os métodos de recuperação de dados do `SQL Server` para uma consulta ou procedimento armazenado. Ele ajuda a entender e analisar o desempenho de consultas.
+>Um plano de execução é uma maneira simples do *Query Optimizer* calcular o caminho mais eficiente para implementar uma requisição. Um roteiro gráfico ou textual que mostra os métodos de recuperação de dados do *SQL Server* para uma consulta ou procedimento armazenado. Ele ajuda a entender e analisar o desempenho de consultas.
 >
->No `Microsoft SQL Server`, o `Query Analyzer` possui uma opção chamada “Mostrar Plano de Execução” (localizada no menu suspenso Consulta). Se a opção estiver habilitada, ela mostrará os planos de execução da consulta em uma janela separada.
+>No *Microsoft SQL Server*, o *Query Analyzer* possui uma opção chamada “Mostrar Plano de Execução” (localizada no menu suspenso Consulta). Se a opção estiver habilitada, ela mostrará os planos de execução da consulta em uma janela separada.
 
 **10. Como encontrar registros duplicados em uma tabela?**
 >Para identificar registros duplicados você pode usar consultas específicas dependendo de quantos campos deseja considerar:
 >```sql
->- Registros duplicados com um campo -
+>----------
+>-- Registros duplicados com um campo
+>----------
 >SELECT 
 >	campo, 
 >	COUNT(*)
@@ -69,7 +71,9 @@
 >	COUNT(*) > 1;
 >```
 >```sql
->- Registros duplicados com mais de um campo: -
+>----------
+>-- Registros duplicados com mais de um campo
+>----------
 >SELECT 
 >	campo_1, 
 >	campo_2, 

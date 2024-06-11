@@ -1,0 +1,16 @@
+id;nome;data_criacao;localizacao_id;email
+1;João Silva;2019-10-15 00:00:00.000;1;joao.silva@empresa.com
+2;Maria Souza;2019-10-15 00:00:00.000;2;maria.souza@empresa.com
+3;Carlos Oliveira;2019-10-15 00:00:00.000;3;carlos.oliveira@empresa.com
+4;Ana Pereira;2019-10-15 00:00:00.000;1;ana.pereira@empresa.com
+5;Pedro Costa;2019-10-15 00:00:00.000;2;pedro.costa@empresa.com
+6;Yago Silva;2019-10-15 00:00:00.000;4;yago.silva@empresa.com
+7;Joana Santos;2019-10-15 00:00:00.000;6;joana.santos@empresa.com
+8;José Gomes;2020-02-02 00:00:00.000;6;jose.gomes@empresa.com
+9;Ana Nunes;2020-02-02 00:00:00.000;6;ana.nunes@empresa.com
+10;Francisco Correia;2020-02-02 00:00:00.000;6;francisco.correia@empresa.com
+11;Raquel Ferreira;2020-02-02 00:00:00.000;6;raquel.costa@empresa.com
+12;Suzana Costa;2020-02-02 00:00:00.000;6;suzana.costa@empresa.com
+13;Roberto Fernandes;2020-02-02 00:00:00.000;6;roberto.fernandes@empresa.com
+14;Miguel Moreia;2020-02-02 00:00:00.000;6;miguel.moreira@empresa.com
+15;Heitor Mendes;2020-02-02 00:00:00.000;6;heitor.mendes@empresa.com

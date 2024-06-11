@@ -1,0 +1,17 @@
+id;nome;sobrenome;salario;departamento_id
+1;João;Silva;3000;1
+2;Maria;Souza;4000;2
+3;Carlos;Oliveira;6500;3
+4;Ana;Pereira;3200;1
+5;Pedro;Costa;3900;2
+6;Yago;Silva;4500;2
+7;Joana;Santos;6500;3
+8;José;Gomes;6000;3
+9;Ana;Nunes;5900;3
+10;Francisco;Correia;3500;1
+11;Raquel;Ferreira;6000;4
+12;Suzana;Costa;8000;4
+13;Roberto;Fernandes;3500;5
+14;Miguel;Moreia;3800;5
+15;Heitor;Mendes;4100;5
+16;Laura;Jesus;4100;5

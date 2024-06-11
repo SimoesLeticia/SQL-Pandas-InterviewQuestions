@@ -1,0 +1,37 @@
+id;aeroporto_origem;local_origem;aeroporto_destino;local_destino
+1;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional de Brasília;Distrito Federal
+2;Aeroporto Internacional de Brasília;Distrito Federal;Aeroporto de São Paulo-Congonhas;São Paulo
+3;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+4;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto de São Paulo-Congonhas;São Paulo
+5;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+6;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais
+7;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais
+8;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais;Aeroporto de São Paulo-Congonhas;São Paulo
+9;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+10;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+11;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia
+12;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+13;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+14;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto de São Paulo-Congonhas;São Paulo
+15;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional de Brasília;Distrito Federal
+16;Aeroporto Internacional de Brasília;Distrito Federal;Aeroporto de São Paulo-Congonhas;São Paulo
+17;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia
+18;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+19;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+20;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais
+21;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional de Brasília;Distrito Federal
+22;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia
+23;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+24;Aeroporto Internacional de Brasília;Distrito Federal;Aeroporto de São Paulo-Congonhas;São Paulo
+25;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+26;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+27;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais
+28;Aeroporto Internacional de Belo Horizonte-Confins;Minas Gerais;Aeroporto de São Paulo-Congonhas;São Paulo
+29;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+30;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+31;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+32;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+33;Aeroporto Internacional do Recife-Guararapes;Pernambuco;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia
+34;Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhães;Bahia;Aeroporto Internacional do Recife-Guararapes;Pernambuco
+35;Aeroporto de São Paulo-Congonhas;São Paulo;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro
+36;Aeroporto Internacional Tom Jobim-Rio Galeão;Rio de Janeiro;Aeroporto de São Paulo-Congonhas;São Paulo
